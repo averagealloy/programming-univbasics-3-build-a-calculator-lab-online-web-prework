@@ -19,5 +19,5 @@ answer = num1 % num2
 end
 
 def square_root(num)
-  Math.sqrt(num)
+  answer = Math.sqrt(num)
 end
